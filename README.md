@@ -2,7 +2,7 @@
 Calculator
 </h1>
 
-> ## Application made in Python!  With it you can write down everyday things... :shipit:
+> ## Calculator made in Python! :shipit:
 > STATUS: Made ⚠️
 
 Technologies used 💻
