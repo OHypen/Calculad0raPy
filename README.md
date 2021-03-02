@@ -1,49 +1,38 @@
 <h1 align="center">
-
-<br>
-  Calculadora
+Notepad
 </h1>
 
-<p align="center">Calculadora em Python</p>
+> ## Application made in Python!  With it you can write down everyday things... :shipit:
+> STATUS: Made ⚠️
 
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
+Technologies used 💻
 
-## 🚀 | TECNOLOGIAS
+<table>
+   <tr>
+     <td>PYTHON</td>
+   </tr>
+   <tr>
+     <td>3.9.2</td>
+   </tr>
 
-- 🐍 | Python
+</table>
 
-## FERRAMENTAS
+### how to execute the project?
+```diff
++ 1) Download Python: https://python.org
++ 2) Clone the project
++ 3) Unzip the project
++ 4) Run the project
+```
+</br>
+</Br>
 
-<p>💻 Pydroid 3</p>
+## Use rights 🔖
+</br>
 
-## 👉 | COMO USAR O PROJETO?
-<div>
-    - Baixe o Python | https://www.youtube.com/watch?v=FcfalMf9bRY
-
-    - Pronto agora siga o tutorial abaixo:
-
-      - Clone o repositorio
-
-      - Com o Repositorio clonado abra o calc.py
-
-          - E pronto...
-
-          - Agora é só usar!
-
-       - Facil né??
-   ___________________________________________________________________
-</div>
-<h2>🌠 | INSTAGRAM</h2>
-
-https://www.instagram.com/lszinxx/
-
-## 📜 LICENSE
-
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+You have full right to use this project for: study, for-profit purposes, changes to the source code and etc ...
+ But you will need to give credit, unless you change at least 55% of the code.
 
 
 
+<a href="https://instagram.com/lszinxx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
