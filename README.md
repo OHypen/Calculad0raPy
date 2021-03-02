@@ -1,5 +1,5 @@
 <h1 align="center">
-Notepad
+Calculator
 </h1>
 
 > ## Application made in Python!  With it you can write down everyday things... :shipit:
